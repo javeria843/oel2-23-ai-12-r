@@ -24,4 +24,4 @@ average_scores <- df %>%
 
 
 view(average_scores)
-
+i love you
