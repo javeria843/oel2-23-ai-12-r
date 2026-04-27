@@ -24,4 +24,5 @@ average_scores <- df %>%
 
 
 view(average_scores)
-
+#life is tooo complicated i hope your repositories wont stop to pull your work out here 
+#BTW ilu
